@@ -21,5 +21,4 @@ public class AbstractTask implements iTask {
         this.date = LocalDate.now();
     }
 
-
 }

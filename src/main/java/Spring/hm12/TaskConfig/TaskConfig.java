@@ -13,9 +13,6 @@ public class TaskConfig {
         return new CodingTaskCreator();
     }
 
-    @Bean
-    public TaskFactory writingTaskFactory(){
-        return new WriteTaskCreator();
-    }
+
 
 }

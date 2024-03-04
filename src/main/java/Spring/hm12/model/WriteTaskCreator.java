@@ -1,6 +1,5 @@
 package Spring.hm12.model;
 
-import Spring.hm12.enums.TaskStatus;
 import Spring.hm12.interfaces.iTask;
 
 public class WriteTaskCreator extends TaskFactory {
